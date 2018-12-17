@@ -1,5 +1,5 @@
 # EnvThes
-EnvThes (Environmental Thesaurus) is the controlled vocabulary of the LTER-Europe community. It is coordinated by Umweltbundesamt GmbH, Austria. Here you can find the repository of the SKOS vocabulary. In the issues tab you can request the addition of new terms or the modification of existing terms. For more information on how to do this please consult the Wiki page.
+EnvThes (Environmental Thesaurus) is the controlled vocabulary of the LTER-Europe community. It is coordinated by Umweltbundesamt GmbH, Austria. Here you can find the repository of the SKOS vocabulary. If you want to contribute to EnvThes with suggestions of new terms you have to create a gitHub account first. For any addition of new terms or modification of existing terms please add a new issue. For more information on how to do this please consult the Wiki page.
 
 Versioning management: 
 For EnvThes two types of versioning are considered.
