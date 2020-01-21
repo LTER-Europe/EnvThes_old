@@ -7,4 +7,4 @@ Big changes in structure are stored separately. Older versions are put in the re
 The current version is stored in a separate directory. EnvThes versions with smaller changes are overwritten in this repository. 
 
 
-You can view EnvThes here: http://vocabs.ceh.ac.uk/evn/tbl/envthes.evn
+You can view EnvThes here: http://vocabs.lter-europe.net/EnvThes/
